@@ -1,6 +1,4 @@
----
 
-````markdown
 # TAPO: Token-level Advantage Policy Optimization
 
 Official implementation of the paper:  

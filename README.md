@@ -1,6 +1,3 @@
-
-# TAPO: Token-level Advantage Policy Optimization
-
 Official implementation of the paper:  
 **"TAPO: Dynamic Teacher and Perturbed Answer Injection for Policy Optimization"**  
 🚀 NeurIPS 2025 Submission · Anonymous Authors

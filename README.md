@@ -87,7 +87,7 @@ tapo/
 @article{anonymous2025tapo,
   title   = {TAPO: Dynamic Teacher and Perturbed Answer Injection for Policy Optimization},
   author  = {Anonymous Authors},
-  journal = {Conference on Neural Information Processing Systems (NeurIPS)},
+  journal = {submission stage on Conference on Neural Information Processing Systems (NeurIPS)},
   year    = {2025}
 }
 ```
